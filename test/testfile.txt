@@ -1,0 +1,2 @@
+no space, then what about special characters, numbers? 
+This is some random text
